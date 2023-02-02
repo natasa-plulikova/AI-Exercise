@@ -6,7 +6,7 @@ You are part of our AI squad. Our clients have approached us to build a quick pr
 Your task is to:
 - prepare, wrangle and clean the data
 - analyze patterns in the data 
-- (Optional) prepare model that will be able to detect anomalies
+- prepare model that will be able to detect anomalies
 
 The data for this exercise can be access from here: https://ibm.box.com/s/97lnlr5dmvdnepnspkh8gf4ckjsvfywh. The zip file contains SQL scripts from PostreSQL and include data and database schema. You need to create your own database environment which can be queried for further analysis. It is sufficient if your solution is local only but you can also leverage cloud offerings (e.g. cloud.ibm.com offers Lite versions that are for free).
 
